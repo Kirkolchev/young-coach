@@ -2361,6 +2361,7 @@ body:not(.lg-from-hash) .lg-outer.lg-start-zoom .lg-item:not(.lg-zoomable).lg-co
 .footer__social {
 	display: flex;
 	flex-wrap: wrap;
+	align-items: center;
 }
 .footer__social-link {
 	padding: 0.3125rem;
